@@ -10,7 +10,7 @@
 
 **Mentor tutor:** Sharvi, Frederik
 
-**Lab stream:** StringME302?
+**Lab stream:** 6667 LAB T10A
 
 
 ---
