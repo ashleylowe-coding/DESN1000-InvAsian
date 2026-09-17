@@ -93,7 +93,7 @@ Write the rule set, including what happens on a late return. Decide whether pend
 
 ---
 
-## Week N — *dates*
+## Week 1 — *dates*
 
 ### What we did
 
@@ -119,7 +119,204 @@ Write the rule set, including what happens on a late return. Decide whether pend
 
 ---
 
-*Copy the block above for each teaching week: 1, 2, 3, 4, 5, 7, 8, 9, 10. Week 6 is flex week — if you worked, log it.*
+## Week 2 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
+
+---
+## Week 3 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
+
+---
+## Week 4 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
+
+---
+## Week 5 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
+
+---
+## Week 7 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
+
+---
+## Week 8 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
+
+---
+## Week 9 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
+
+---
+## Week 10 — *dates*
+
+### What we did
+
+### Decisions
+
+| # | Decision | Why | What we rejected | Still unsure about |
+|---|----------|-----|------------------|-------------------|
+| | | | | |
+
+### Changed our minds
+*Anything you thought last week that you no longer think, and what changed your mind. If nothing changed, write "nothing this week" — but check that's true.*
+
+### Contributions
+
+| Member | What they did this week |
+|--------|------------------------|
+| | |
+| | |
+| | |
+| | |
+
+### Next week
 
 ---
 
